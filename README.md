@@ -6,6 +6,9 @@
 
 ## 技能栈
 
+---
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
 
 ---
 
