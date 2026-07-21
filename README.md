@@ -2,6 +2,8 @@
 
 # Hi, I'm **此番言**
 
+[中文](README.md) | [English](README_EN.md)
+
 [![GitHub followers](https://img.shields.io/github/followers/Fyuan0206?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Fyuan0206)
 [![GitHub stars](https://img.shields.io/github/stars/Fyuan0206?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/Fyuan0206)
 [![Profile Views](https://komarev.com/ghpvc/?username=Fyuan0206&style=for-the-badge&color=blueviolet)](https://github.com/Fyuan0206)
