@@ -2,11 +2,12 @@
 
 # Hi, I'm **Fyuan**
 
-[中文](README.md) | [English](README_EN.md)
+[中文](README.md) | [English](README_EN.md) · [Homepage](https://fyuan0206.github.io/Fyuan0206/)
 
 [![GitHub followers](https://img.shields.io/github/followers/Fyuan0206?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Fyuan0206)
 [![GitHub stars](https://img.shields.io/github/stars/Fyuan0206?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/Fyuan0206)
 [![Profile Views](https://komarev.com/ghpvc/?username=Fyuan0206&style=for-the-badge&color=blueviolet)](https://github.com/Fyuan0206)
+[![Datawhale Member](https://img.shields.io/badge/Datawhale-Member-2669B2?style=for-the-badge&labelColor=1c1917&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTAiIGhlaWdodD0iMTM5IiB2aWV3Qm94PSIwIDAgMTUwIDEzOSI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTAwLjkgNi40Yy00LjggMy4zLTcgOC41LTcuNyAxN2wtLjQgNy4xIDIuNC0zLjVjMS4zLTEuOSA1LTUgOC4zLTYuN0MxMTAuOCAxNi4yIDExNCAxMi44IDExNCA5YzAtNS40LTctNi43LTEzLjEtMi42bS0yMi4yIDYuN3EtNC40IDIuNSAyLjkgNmMyLjUgMS4yIDQuOCAyLjggNSAzLjUgMSAyLjIgMi40IDEuNiAyLjQtLjlTODUuNSAxMyA4NC4xIDEzcS0xIDAtMi4zLS41Yy0uNy0uMi0yIDAtMyAuNm0xMS43IDIwLjRhNTQgNTQgMCAwIDAtMjYuOSAxMiA4MSA4MSAwIDAgMC0yMS43IDM2cS0yLjggMTEuOS05LjYgN2MtMS43LTEuMi0yLjEtMi43LTIuNC04LjctLjMtNS42LTEtOC0yLjctMTAuNi0xLjMtMS43LTIuOC0zLjItMy4zLTMuMkMyMiA2NiAxOSA3NC40IDE5IDc5LjNWODRoLTcuNmMtOS4yIDAtMTIgMS4xLTEwLjEgNFE1IDk0LjYgMTYgOTQuM2g2LjdsOC45IDljMjIuNiAyMy4zIDQyIDMzIDYzLjcgMzEuNiAyNC41LTEuNiA0OS4yLTE5LjcgNTMuNi0zOS4zIDMuNi0xNi0yLjktMzcuNS0xNC43LTQ5LjRhNDQgNDQgMCAwIDAtMjUuOC0xMi42Yy0xMC0xLjctOC45LTEuNy0xOCAwbTIxIDU3cS0zIDMgLjMgNS44YzMuMyAzIDcuMiAxLjUgNy4yLTIuOHMtNC40LTYtNy40LTNtMTYuNyAxNi41Yy01IDEuNi05LjYgNC0xMS44IDUuOEE2OCA2OCAwIDAgMSA4MS44IDEyNnEtMy43IDAtMy4zIDFjMSAxLjYgMjAgMS4yIDI2LjktLjZhNTkgNTkgMCAwIDAgMjQtMTIuNmM1LTQuNSA4LjMtOC41IDcuNC05LjItLjItLjItNCAuOS04LjUgMi40Ii8%2BPC9zdmc%2B)](https://github.com/datawhalechina)
 
 </div>
 
@@ -88,19 +89,31 @@ Projects I led, ordered by repository creation date:
 
 ---
 
+### [**ArguMesh**](https://github.com/Fyuan0206/ArguMesh) · 2026-08
+
+**Background**: A personal open-source AI research workbench
+
+- [Website](https://argumesh.nekocfy.com/)
+- [WeChat community](https://github.com/Fyuan0206/ArguMesh/issues/4)
+
+**Problem addressed**: Close reading, evidence checking, research questions, and paper writing are often scattered across PDF readers, spreadsheets, notes, and chat-style AI, making sources easy to lose and hard to compare across papers. Built for researchers, graduate students, and paper authors, ArguMesh connects literature reading → evidence matrices → research threads → experiment planning → LaTeX writing into a continuous, local-first, evidence-traceable workflow.
+
+**Tech stack**: React 19 + TypeScript + Vite 6 · Hono local API · SQLite / Drizzle · Tauri desktop shell · pdf.js + OCR · Optional Research Agent (OpenAI / Anthropic-compatible APIs)
+
+---
+
 ## 🧩 Open-Source Contributions
 
 Projects I have contributed to, ordered by contribution date:
 
-| Date | Project | My Contribution |
-|:----:|:--------|:----------------|
-| 2024-06 | [**AMchat**](https://github.com/AXYZdong/AMchat)<br><sub>LLM for advanced mathematics</sub> | **Contributor** · Wrote the InternLM2-Math-Plus-20B fine-tuning tutorial and helped deploy and maintain the OpenXLab online demo |
-| 2025-03 | [**hml-solutions**](https://github.com/datawhalechina/hml-solutions)<br><sub>Hands-on machine learning exercise solutions</sub> | **Contributor** · Wrote solutions for Chapter 16, Probabilistic Graphical Models, and Chapter 17, the EM Algorithm, including Jupyter Notebooks and figures |
-| 2025-10 ~ Present | [**agentic-ai**](https://github.com/datawhalechina/agentic-ai)<br><sub>Chinese Agentic AI tutorial</sub> | **Project Lead** · Coordinated course localization and community collaboration; led the writing and translation of Chapters 4 and 5; maintained chapters on multi-agent workflows; reviewed and merged community PRs |
-| 2026-01 | [**easy-vecdb**](https://github.com/datawhalechina/easy-vecdb)<br><sub>Beginner-friendly vector database tutorial</sub> | **Contributor** · Wrote Project 1, “RAG with FAISS,” a framework-free tutorial covering embeddings, vector retrieval, and complete LLM code |
-| 2026-01 ~ 2026-02 | [**self-llm**](https://github.com/datawhalechina/self-llm)<br><sub>Open-source LLM practical guide</sub> | **Contributor** · Wrote the Step-3.5-Flash SGLang inference and deployment tutorial and added an SGLang tutorial for the Ascend platform |
-| 2026-02 ~ Present | [**agent-skills-with-anthropic**](https://github.com/datawhalechina/agent-skills-with-anthropic)<br><sub>Chinese Agent Skills tutorial</sub> | **Project Lead** · Coordinated chapter planning and collaboration, organized multi-chapter writing and maintenance, added the Chapter 10 summary, reviewed and merged community PRs, and maintained README navigation |
-| 2026-05 | [**ai-prompting-for-everyone**](https://github.com/datawhalechina/ai-prompting-for-everyone)<br><sub>Chinese AI Prompting tutorial</sub> | **Project Lead** · Led the VitePress documentation site and GitHub Pages deployment, organized the translation of Module 1 and other chapters, and maintained site structure and sidebar navigation · [Read online](https://datawhalechina.github.io/ai-prompting-for-everyone/) |
+* **2024-06** · [AMchat](https://github.com/AXYZdong/AMchat) — LLM for advanced mathematics · **Contributor** · Wrote the InternLM2-Math-Plus-20B fine-tuning tutorial and helped deploy and maintain the OpenXLab online demo ![Stars](https://img.shields.io/github/stars/AXYZdong/AMchat)
+* **2025-03** · [hml-solutions](https://github.com/datawhalechina/hml-solutions) — Hands-on machine learning exercise solutions · **Contributor** · Wrote solutions for Chapter 16, Probabilistic Graphical Models, and Chapter 17, the EM Algorithm, including Jupyter Notebooks and figures ![Stars](https://img.shields.io/github/stars/datawhalechina/hml-solutions)
+* **2025-10 ~ Present** · [agentic-ai](https://github.com/datawhalechina/agentic-ai) — Chinese Agentic AI tutorial · **Project Lead** · Coordinated course localization and community collaboration; led the writing and translation of Chapters 4 and 5; maintained chapters on multi-agent workflows; reviewed and merged community PRs ![Stars](https://img.shields.io/github/stars/datawhalechina/agentic-ai)
+* **2026-01** · [easy-vecdb](https://github.com/datawhalechina/easy-vecdb) — Beginner-friendly vector database tutorial · **Contributor** · Wrote Project 1, “RAG with FAISS,” a framework-free tutorial covering embeddings, vector retrieval, and complete LLM code ![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vecdb)
+* **2026-01 ~ 2026-02** · [self-llm](https://github.com/datawhalechina/self-llm) — Open-source LLM practical guide · **Contributor** · Wrote the Step-3.5-Flash SGLang inference and deployment tutorial and added an SGLang tutorial for the Ascend platform ![Stars](https://img.shields.io/github/stars/datawhalechina/self-llm)
+* **2026-02 ~ Present** · [agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic) — Chinese Agent Skills tutorial · **Project Lead** · Coordinated chapter planning and collaboration, organized multi-chapter writing and maintenance, added the Chapter 10 summary, reviewed and merged community PRs, and maintained README navigation ![Stars](https://img.shields.io/github/stars/datawhalechina/agent-skills-with-anthropic)
+* **2026-05** · [ai-prompting-for-everyone](https://github.com/datawhalechina/ai-prompting-for-everyone) — Chinese AI Prompting tutorial · **Project Lead** · Led the VitePress documentation site and GitHub Pages deployment, organized the translation of Module 1 and other chapters, and maintained site structure and sidebar navigation · [Read online](https://datawhalechina.github.io/ai-prompting-for-everyone/) ![Stars](https://img.shields.io/github/stars/datawhalechina/ai-prompting-for-everyone)
+* **2026-09** · [jev-cookbook](https://github.com/datawhalechina/jev-cookbook) — Chinese Jev introductory tutorial · **Tutorial Author** · Contributed foundational tutorials and application demos, plus JevHarness analysis and evaluation · [Read online](https://datawhalechina.github.io/jev-cookbook/) ![Stars](https://img.shields.io/github/stars/datawhalechina/jev-cookbook)
 
 ---
 

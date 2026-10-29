@@ -2,11 +2,12 @@
 
 # Hi, I'm **此番言**
 
-[中文](README.md) | [English](README_EN.md)
+[中文](README.md) | [English](README_EN.md) · [个人主页](https://fyuan0206.github.io/Fyuan0206/)
 
 [![GitHub followers](https://img.shields.io/github/followers/Fyuan0206?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Fyuan0206)
 [![GitHub stars](https://img.shields.io/github/stars/Fyuan0206?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/Fyuan0206)
 [![Profile Views](https://komarev.com/ghpvc/?username=Fyuan0206&style=for-the-badge&color=blueviolet)](https://github.com/Fyuan0206)
+[![Datawhale Member](https://img.shields.io/badge/Datawhale-Member-2669B2?style=for-the-badge&labelColor=1c1917&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTAiIGhlaWdodD0iMTM5IiB2aWV3Qm94PSIwIDAgMTUwIDEzOSI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTAwLjkgNi40Yy00LjggMy4zLTcgOC41LTcuNyAxN2wtLjQgNy4xIDIuNC0zLjVjMS4zLTEuOSA1LTUgOC4zLTYuN0MxMTAuOCAxNi4yIDExNCAxMi44IDExNCA5YzAtNS40LTctNi43LTEzLjEtMi42bS0yMi4yIDYuN3EtNC40IDIuNSAyLjkgNmMyLjUgMS4yIDQuOCAyLjggNSAzLjUgMSAyLjIgMi40IDEuNiAyLjQtLjlTODUuNSAxMyA4NC4xIDEzcS0xIDAtMi4zLS41Yy0uNy0uMi0yIDAtMyAuNm0xMS43IDIwLjRhNTQgNTQgMCAwIDAtMjYuOSAxMiA4MSA4MSAwIDAgMC0yMS43IDM2cS0yLjggMTEuOS05LjYgN2MtMS43LTEuMi0yLjEtMi43LTIuNC04LjctLjMtNS42LTEtOC0yLjctMTAuNi0xLjMtMS43LTIuOC0zLjItMy4zLTMuMkMyMiA2NiAxOSA3NC40IDE5IDc5LjNWODRoLTcuNmMtOS4yIDAtMTIgMS4xLTEwLjEgNFE1IDk0LjYgMTYgOTQuM2g2LjdsOC45IDljMjIuNiAyMy4zIDQyIDMzIDYzLjcgMzEuNiAyNC41LTEuNiA0OS4yLTE5LjcgNTMuNi0zOS4zIDMuNi0xNi0yLjktMzcuNS0xNC43LTQ5LjRhNDQgNDQgMCAwIDAtMjUuOC0xMi42Yy0xMC0xLjctOC45LTEuNy0xOCAwbTIxIDU3cS0zIDMgLjMgNS44YzMuMyAzIDcuMiAxLjUgNy4yLTIuOHMtNC40LTYtNy40LTNtMTYuNyAxNi41Yy01IDEuNi05LjYgNC0xMS44IDUuOEE2OCA2OCAwIDAgMSA4MS44IDEyNnEtMy43IDAtMy4zIDFjMSAxLjYgMjAgMS4yIDI2LjktLjZhNTkgNTkgMCAwIDAgMjQtMTIuNmM1LTQuNSA4LjMtOC41IDcuNC05LjItLjItLjItNCAuOS04LjUgMi40Ii8%2BPC9zdmc%2B)](https://github.com/datawhalechina)
 
 </div>
 
@@ -26,7 +27,7 @@
 
 ## 🚀 个人作品
 
-个人主导开发的项目（按仓库创建时间排序）：
+个人主导开发的项目：
 
 ### [**Ancient_Books**](https://github.com/Fyuan0206/Ancient_Books) · 2024-08
 
@@ -88,19 +89,31 @@
 
 ---
 
+### [**ArguMesh · 论脉**](https://github.com/Fyuan0206/ArguMesh) · 2026-08
+
+**项目背景**：开源 AI 科研工作台
+
+- [官网](https://argumesh.nekocfy.com/)
+- [微信交流群](https://github.com/Fyuan0206/ArguMesh/issues/4)
+
+**解决问题**：科研精读、证据核验、研究问题与论文写作分散在 PDF 阅读器、表格、笔记与聊天式 AI 之间，证据出处易丢失、难以横向比较。面向科研人员、研究生与论文作者，把文献精读 → 证据矩阵 → 研究脉络 → 实验规划 → LaTeX 写作连成不断线、可追溯的本地优先工作流。
+
+**技术栈**：React 19 + TypeScript + Vite 6 · Hono 本地 API · SQLite / Drizzle · Tauri 桌面壳 · pdf.js + OCR · Research Agent
+
+---
+
 ## 🧩 开源项目
 
-参与贡献的开源项目（按参与贡献时间排序）：
+参与贡献的开源项目：
 
-| 时间 | 项目 | 我的贡献 |
-|:----:|:-----|:-----|
-| 2024-06 | [**AMchat**](https://github.com/AXYZdong/AMchat)<br><sub>高等数学大模型</sub> | **项目贡献者** · 撰写 InternLM2-Math-Plus-20B 微调教程，参与 OpenXLab 在线体验应用部署与维护 |
-| 2025-03 | [**hml-solutions**](https://github.com/datawhalechina/hml-solutions)<br><sub>动手学机器学习习题解答</sub> | **项目贡献者** · 撰写第 16 章概率图模型、第 17 章 EM 算法习题解答（含 Jupyter Notebook 与配图） |
-| 2025-10 ~ 至今 | [**agentic-ai**](https://github.com/datawhalechina/agentic-ai)<br><sub>Agentic AI 中文教程</sub> | **项目负责人** · 统筹课程本地化与社区协作，主导第 4、5 章教程编写与翻译，维护多智能体工作流等章节，Review 合并社区 PR |
-| 2026-01 | [**easy-vecdb**](https://github.com/datawhalechina/easy-vecdb)<br><sub>零基础向量数据库教程</sub> | **项目贡献者** · 撰写 project1「RAG with FAISS」实战教程（无框架依赖，含 Embedding / 向量检索 / LLM 完整代码） |
-| 2026-01 ~ 2026-02 | [**self-llm**](https://github.com/datawhalechina/self-llm)<br><sub>开源大模型食用指南</sub> | **项目贡献者** · 撰写 Step-3.5-Flash SGLang 推理部署教程，补充昇腾平台 SGLang 教程 |
-| 2026-02 ~ 至今 | [**agent-skills-with-anthropic**](https://github.com/datawhalechina/agent-skills-with-anthropic)<br><sub>Agent Skills 中文教程</sub> | **项目负责人** · 统筹课程章节规划与协作推进，组织多章节编写与维护，新增第 10 章总结，Review 合并社区 PR，维护 README 课程导航 |
-| 2026-05 | [**ai-prompting-for-everyone**](https://github.com/datawhalechina/ai-prompting-for-everyone)<br><sub>AI Prompting 中文教程</sub> | **项目负责人** · 统筹 VitePress 文档站搭建与 GitHub Pages 自动部署，组织 Module 1 等章节翻译，维护站点结构与侧边栏导航 · [在线阅读](https://datawhalechina.github.io/ai-prompting-for-everyone/) |
+* **2024-06** · [AMchat](https://github.com/AXYZdong/AMchat) — 高等数学大模型 · **项目贡献者** · 撰写 InternLM2-Math-Plus-20B 微调教程，参与 OpenXLab 在线体验应用部署与维护 ![Stars](https://img.shields.io/github/stars/AXYZdong/AMchat)
+* **2025-03** · [hml-solutions](https://github.com/datawhalechina/hml-solutions) — 动手学机器学习习题解答 · **项目贡献者** · 撰写第 16 章概率图模型、第 17 章 EM 算法习题解答（含 Jupyter Notebook 与配图） ![Stars](https://img.shields.io/github/stars/datawhalechina/hml-solutions)
+* **2025-10** · [agentic-ai](https://github.com/datawhalechina/agentic-ai) — Agentic AI 中文教程 · **项目负责人** · 统筹课程本地化与社区协作，主导第 4、5 章教程编写与翻译，维护多智能体工作流等章节，Review 合并社区 PR ![Stars](https://img.shields.io/github/stars/datawhalechina/agentic-ai)
+* **2026-01** · [easy-vecdb](https://github.com/datawhalechina/easy-vecdb) — 零基础向量数据库教程 · **项目贡献者** · 撰写 project1「RAG with FAISS」实战教程（无框架依赖，含 Embedding / 向量检索 / LLM 完整代码） ![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vecdb)
+* **2026-01** · [self-llm](https://github.com/datawhalechina/self-llm) — 开源大模型食用指南 · **项目贡献者** · 撰写 Step-3.5-Flash SGLang 推理部署教程，补充昇腾平台 SGLang 教程 ![Stars](https://img.shields.io/github/stars/datawhalechina/self-llm)
+* **2026-02 ** · [agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic) — Agent Skills 中文教程 · **项目负责人** · 统筹课程章节规划与协作推进，组织多章节编写与维护，新增第 10 章总结，Review 合并社区 PR，维护 README 课程导航 ![Stars](https://img.shields.io/github/stars/datawhalechina/agent-skills-with-anthropic)
+* **2026-05** · [ai-prompting-for-everyone](https://github.com/datawhalechina/ai-prompting-for-everyone) — AI Prompting 中文教程 · **项目负责人** · 统筹 VitePress 文档站搭建与 GitHub Pages 自动部署，组织 Module 1 等章节翻译，维护站点结构与侧边栏导航 · [在线阅读](https://datawhalechina.github.io/ai-prompting-for-everyone/) ![Stars](https://img.shields.io/github/stars/datawhalechina/ai-prompting-for-everyone)
+* **2026-09** · [jev-cookbook](https://github.com/datawhalechina/jev-cookbook) — Jev 中文入门教程 · **项目贡献者** · 参与基础教程编写与部分应用实现，贡献 JevHarness 分析与评估 · [在线阅读](https://datawhalechina.github.io/jev-cookbook/) ![Stars](https://img.shields.io/github/stars/datawhalechina/jev-cookbook)
 
 ---
 
@@ -108,9 +121,13 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Fyuan0206)
 
 ![Snake animation](https://raw.githubusercontent.com/Fyuan0206/Fyuan0206/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fyuan0206)
 
 </div>
 
